@@ -2,7 +2,7 @@
 Change your Mac simply using this script
 #USAGE
 > python3 mac_changer.py
-# use this as ROOT 
+# Works Only with ROOT permission [!]
 # installation
 > git clone https://github.com/H4ckr0pZ/MacChanger.git  && 
 > cd MacChanger && 
